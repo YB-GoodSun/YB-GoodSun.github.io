@@ -1,0 +1,22 @@
+{
+  "title": "よくばりGoodSun",
+  "tagline": "好きを、ぜんぶ少しずつ。",
+  "taglineHighlight": "ぜんぶ",
+  "lead": "仕事も、学びも、暮らしも。よくばりな毎日のなかで考えたことを、書き留めています。",
+  "description": "仕事も、学びも、暮らしも。好きなものは、ぜんぶ少しずつ欲しい。そんなよくばりな毎日のなかで考えたことを書き留めるブログ。",
+  "url": "https://goodsunblog.com",
+  "lang": "ja",
+  "aboutShort": "仕事も、学びも、暮らしも。好きなものは、ぜんぶ少しずつ欲しい。そんなよくばりな毎日のなかで考えたことを、書き留めています。",
+  "aboutVertical": "よくばりに、でも急がずに。",
+  "categories": [
+    { "name": "暮らし", "slug": "life" },
+    { "name": "読書", "slug": "books" },
+    { "name": "学び", "slug": "learning" },
+    { "name": "散歩", "slug": "walk" }
+  ],
+  "adsense": {
+    "clientId": "",
+    "slotMiddle": "",
+    "slotEnd": ""
+  }
+}
